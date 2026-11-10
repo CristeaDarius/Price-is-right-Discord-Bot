@@ -1,1 +1,1 @@
-# Price-is-right-Discord-Bot
+Un bot de discord facut in liceu. Cod foarte prost.
